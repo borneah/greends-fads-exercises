@@ -12,10 +12,10 @@ the format of data (json, xml, csv, several, ...)
 | Platform | URL | Path to API information | Documentation URL | API URL | Data format |
 |----|----|----|-----|-----|----|
 | GBIF | https://www.gbif.org |Top Menu -> Get Data -> GBIF API | https://www.gbif.org/developer/summary | https://api.gbif.org/v1/species/5231190 | json |
-| Eurostat | https://ec.europa.eu/eurostat/ |
-| INE	| https://www.ine.pt/ |
-| Climate Data Store | https://cds.climate.copernicus.eu/cdsapp#!/home |
-| Copernicus Open Access Hub	| https://scihub.copernicus.eu/ |
+| Eurostat | https://ec.europa.eu/eurostat/ | Top Menu -> Data -> Web Services| https://ec.europa.eu/eurostat/web/main/data/web-services | https://ec.europa.eu/eurostat/databrowser/view/EF_M_FARMLEG/default/table?lang=en&category=agr.ef.ef_mainfarm | TSV / xlsx / SDMX-CSV |
+| INE	| https://www.ine.pt/ | Bottom Menu -> Recursos (Serviços  Feeds e API) | https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522 | https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0008971&contexto=bd&selTab=tab2 | csv / xlsx |
+| Climate Data Store | https://cds.climate.copernicus.eu/cdsapp#!/home | Top Menu -> Home -> Climate Data Store | https://cds.climate.copernicus.eu/api-how-to | https://cds.climate.copernicus.eu/cdsapp#!/software/app-health-urban-climate?tab=app | csv |
+| Copernicus Open Access Hub	| https://scihub.copernicus.eu/ | 
 | WMO	| https://worldweather.wmo.int/en/home.html |
 | Agri4Cast	| https://agri4cast.jrc.ec.europa.eu/DataPortal/ |
 | European Environment Agency	| https://www.eea.europa.eu/ |
